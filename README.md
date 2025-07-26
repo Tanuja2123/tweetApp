@@ -18,9 +18,6 @@ A Django-based web application that allows users to register, log in, and perfor
 - **Database**: SQLite (default with Django)
 - **Other**: Django ORM for querying and database abstraction
 
-## 📸 Screenshots
-
-> (Add screenshots of homepage, tweet list, and edit/delete functionality if available.)
 
 ## 🧰 Installation
 
